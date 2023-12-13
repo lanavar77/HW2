@@ -11,6 +11,7 @@ namespace HW2
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.WriteLine(Console.ReadLine());
             Console.WriteLine("This is my new project");
+            Console.WriteLine("This is very interesting");
         }
     }
 }
