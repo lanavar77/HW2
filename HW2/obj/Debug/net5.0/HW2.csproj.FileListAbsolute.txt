@@ -13,3 +13,4 @@ C:\Users\lana\Desktop\C#project\HW2\obj\Debug\net5.0\refint\HW2.dll
 C:\Users\lana\Desktop\C#project\HW2\obj\Debug\net5.0\HW2.pdb
 C:\Users\lana\Desktop\C#project\HW2\obj\Debug\net5.0\HW2.genruntimeconfig.cache
 C:\Users\lana\Desktop\C#project\HW2\obj\Debug\net5.0\ref\HW2.dll
+C:\Users\lana\Desktop\C#project\HW2\obj\Debug\net5.0\HW2.sourcelink.json
